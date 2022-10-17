@@ -1,0 +1,26 @@
+.menu{
+    background-color: aquamarine;
+    height: 60px;
+}
+.twocolumns img{
+    float: left;
+    width :55px ;
+    height: 55px;
+}
+
+  .Etiquetas a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+
+  .Etiquetas a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+
